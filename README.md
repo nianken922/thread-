@@ -1,1 +1,4 @@
 # thread-
+學生時期做的一個WINFORM介面的小程式
+有關DELEGEATE與THREAD的使用用法
+每個都是獨立且倒數，時間到就會跳到下一個槽點
